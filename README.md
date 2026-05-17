@@ -151,9 +151,9 @@ Copy the **Secret** Tebex generates → paste it as `TEBEX_WEBHOOK_SECRET` in `.
 
 ```js
 export const TICKET_PACKAGES = {
-  7447582: 1,  // 1 Match Ticket
-  7447585: 3,  // 3 Match Tickets
-  7447586: 5,  // 5 Match Tickets
+  1111111: 1,  // 1 Match Ticket
+  2222222: 3,  // 3 Match Tickets
+  3333333: 5,  // 5 Match Tickets
 };
 ```
 
