@@ -10,11 +10,11 @@ This bot powers the Match Ticket system on cpvpwars: players buy tickets through
 
 **Slash commands available to players and staff:**
 
-![Slash commands](https://raw.githubusercontent.com/khldLabs/cpvpwars-ticket-wallet-bot/main/assets/screenshot-commands.png)
+![Slash commands](https://github.com/khldLabs/cpvpwars-ticket-wallet-bot/raw/main/screenshot-commands.png)
 
 **Automatic audit logging in `#ticket-logs`:**
 
-![Audit log examples](https://raw.githubusercontent.com/khldLabs/cpvpwars-ticket-wallet-bot/main/assets/screenshot-logs.png)
+![Audit log examples](https://github.com/khldLabs/cpvpwars-ticket-wallet-bot/raw/main/screenshot-logs.png)
 
 ---
 
