@@ -1,6 +1,20 @@
 # 🎟️ Match Ticket Wallet Bot
 
-A Discord bot that manages a Match Ticket wallet system. Players buy tickets via Tebex — the bot automatically grants them on purchase. Staff manage balances and game scheduling via slash commands.
+> A Discord bot for managing Match Ticket purchases and game scheduling on the cpvpwars server.
+
+## What is this?
+
+This bot powers the Match Ticket system on cpvpwars: players buy tickets through the Tebex store, and the bot automatically grants them to the buyer's Discord account via a verified webhook. Staff use slash commands to deduct tickets when a sponsored game is hosted, correct balances after refunds, and audit every transaction in a dedicated log channel. Built with discord.js and SQLite (WAL mode + atomic transactions) so that purchases, refunds, and admin corrections can never get out of sync.
+
+## Screenshots
+
+**Slash commands available to players and staff:**
+
+![Slash commands](./assets/screenshot-commands.png)
+
+**Automatic audit logging in `#ticket-logs`:**
+
+![Audit log examples](./assets/screenshot-logs.png)
 
 ---
 
